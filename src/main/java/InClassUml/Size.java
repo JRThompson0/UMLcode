@@ -1,7 +1,7 @@
 package InClassUml;
 
 public enum Size {
-    s,
+    S,
     M,
     L,
     XL,
